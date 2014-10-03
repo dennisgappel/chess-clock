@@ -1,4 +1,5 @@
 Chessclock
 ==========
 
-Try to get a little own Chessclock, builded with cheap hardware.
+Try to get a little own chess clock, built with cheap hardware.
+
