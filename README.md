@@ -1,4 +1,4 @@
-Chessclock
+Chess clock
 ==========
 
 Try to get a little own chess clock, built with cheap hardware.
